@@ -118,15 +118,57 @@
 
 ## 방문 장소
 
+### 1일차
+
+점심먹고 바로 온천으로 가서 휴식.
+
 ### 2일차
 
-- [大室山](https://www.youtube.com/watch?v=FqO5wQLutPA): 케이블카
-- [伊豆シャボテン動物公園](https://www.youtube.com/watch?v=tMFnz3UiJ9M): 동물원
-- [八丁池（はっちょういけ）](https://www.youtube.com/watch?v=m0htiouOk3o): 호수
+- 大室山（おおむろやま）: 케이블카
+  - [유튜브](https://www.youtube.com/watch?v=FqO5wQLutPA)
+- 伊豆シャボテン動物公園: 동물원
+  - [유튜브](https://www.youtube.com/watch?v=tMFnz3UiJ9M)
+- 八丁池（はっちょういけ）: 호수
+  - [유튜브](https://www.youtube.com/watch?v=m0htiouOk3o)
 
 ### 3일차
 
+- 爪木崎（つめきざき）灯台: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=6TWUGflcFi0)
+- 爪木崎（つめきざき）俵磯（たわらいそ）: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=HngO-bu03OY)
+- 毘沙子島（みさごじま）: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=HngO-bu03OY)
+- 龍宮窟（りゅうぐうくつ）: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=cM203hpFzNc)
+- 石廊崎（いろうざき）: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=c4mm4KJAoyc)
+- 沢田（さわだ）公園: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=zbE4LH65SUM)
+- 堂ヶ島（どうがしま）天窓洞（てんそうどう）: 자연경관
+  - [유튜브](https://www.youtube.com/shorts/E8rHzKIJnbY)
+- 堂々島 トンボロ
+  - [유튜브](https://www.youtube.com/watch?v=9An9Ez10d6Y)
+- 黄金崎 馬ロック: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=qkGDwEa6XzU)
+- 戸田（へだ）出逢い岬（であいみさき）: 조각상
+  - [유튜브](https://www.youtube.com/watch?v=ODA2ZXRSb_Q)
+- 御浜岬（みはまみさき）: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=tXjDJLwqbAw)
+- 大瀬崎（おおせざき）: 자연경관
+  - [유튜브](https://www.youtube.com/watch?v=asdty_rm2TI)
+
 ### 4일차
+
+- [エスパルスドリームプラザ](https://www.dream-plaza.co.jp/): 쇼핑몰
+  - [블로그](https://blog.naver.com/pumpjun/223416123303)
+  - [유튜브](https://www.youtube.com/watch?v=Dm4gwM3Y1_0)
+- [新静岡セノバ](https://www.cenova.jp/): 쇼핑몰
+  - [블로그](https://blog.naver.com/goshizuoka/220930193098)
+  - [유튜브](https://www.youtube.com/watch?v=RNfm2NTvETI)
+- [パルシェ](https://www.parche.co.jp/): 쇼핑몰
+  - [블로그](https://blog.naver.com/eeeun29/221321001565)
+  - [유튜브](https://www.youtube.com/watch?v=ORD_f-NNWl8)
 
 ## 식당
 
@@ -145,3 +187,34 @@
 - [堂ヶ島食堂](https://tabelog.com/shizuoka/A2205/A220505/22026031/): 카이센동 (2만원 내외)
 
 ### 4일차
+
+## GPT 추천
+
+### 1️⃣ 주요 여행 지역
+
+- **서부**: 이즈미토 반도 (조용한 어촌, 자연경관)
+- **중부**: 슈젠지, 이즈노쿠니 (역사와 온천)
+- **동부**: 아타미, 이토, 이즈카이간 (해안과 현대적 리조트)
+
+### 2️⃣ 추천 여행 명소와 활동
+
+#### 서부 이즈: 조용한 자연 여행
+
+- **누마즈 항구 (沼津港)**: 신선한 해산물로 유명한 시장. 사시미와 현지 해산물 덮밥 추천.
+- **누마즈 심해수족관**: 해양생물과 심해어 전시.
+- **미시마 스카이라인 (三島スカイライン)**: 드라이브 코스로 추천. 맑은 날에는 후지산이 보임.
+- **도이 곶 (土肥岬)**: 일몰 명소로 유명. 조용히 바다를 즐길 수 있음.
+- **도게츠 빌라 터널 (土肥金山)**: 일본의 옛 금광체험. 광부 체험 및 전통 마을.
+
+#### 중부 이즈: 온천과 역사
+
+- **슈젠지 (修善寺)**: 이즈반도의 중심. 고즈넉한 사찰과 일본 전통 정원이 있음. 슈젠지 온천마을에서 온천탕을 즐겨보세요.
+- **다케노우치 온천 (竹野内温泉)**: 관광객보다는 지역 주민에게 사랑받는 한적한 온천지.
+- **반도사와 폭포 (万城の滝)**: 인적이 드문 폭포로, 피크닉이나 하이킹에 적합.
+
+#### 동부 이즈: 현대적 리조트와 해안
+
+- **아타미 (熱海)**: 일본의 고급 온천 도시. 바다 전망 온천 호텔 추천. 아타미 성에서 해안과 시내를 한눈에 조망 가능.
+- **이토 (伊東)**: 고래관찰 체험과 스쿠버다이빙 명소. 이토 오렌지 비치에서 해양 스포츠 가능.
+- **죠가사키 해안 (城ヶ崎海岸)**: 현무암 절벽과 아름다운 해안선. 하이킹 코스 있음.
+- **이즈 고원 그란팔 파크**: 온 가족이 즐길 수 있는 공원. 계절별 꽃 축제와 액티비티가 있음.
